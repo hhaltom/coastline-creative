@@ -1,3 +1,4 @@
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
